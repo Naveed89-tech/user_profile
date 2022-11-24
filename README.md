@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Naveed89-tech/user_profile)
-- Live Site URL: [Expense-Tracker](https://expenses-tracker-application.netlify.app/)
+- Live Site URL: [User-Profile](https://user-profile-one.netlify.app/)
 
 ## My process
 
